@@ -1,0 +1,14 @@
+../Core/Src/DualUart.c:28:6:DualUART_init	4	static
+../Core/Src/DualUart.c:44:6:store_char	24	static
+../Core/Src/DualUart.c:59:5:Look_for	32	static
+../Core/Src/DualUart.c:86:6:GetDataFromBuffer	56	static
+../Core/Src/DualUart.c:144:6:UART_flush	16	static
+../Core/Src/DualUart.c:159:5:UART_peek	16	static
+../Core/Src/DualUart.c:188:5:UART_read	24	static
+../Core/Src/DualUart.c:223:6:UART_write	24	static
+../Core/Src/DualUart.c:257:5:IsDataAvailable	16	static
+../Core/Src/DualUart.c:266:5:Get_after	32	static
+../Core/Src/DualUart.c:278:6:UART_sendstring	16	static
+../Core/Src/DualUart.c:283:5:Copy_upto	40	static
+../Core/Src/DualUart.c:319:5:Wait_for	24	static
+../Core/Src/DualUart.c:350:6:UART_irqhandle	32	static
